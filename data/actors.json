@@ -1,0 +1,546 @@
+[
+  {
+    "id": "project_bxia_bordeaux",
+    "type": "project",
+    "name": "Projet BXIA (Bordeaux)",
+    "short_name": "Campus IA BXIA",
+    "description": "Projet de campus de calcul IA à Bordeaux, initialement envisagé sur les parkings du Parc des expositions de Bordeaux-Lac.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0001",
+    "type": "person",
+    "name": "Benjamin Delaux",
+    "short_name": "Benjamin Delaux",
+    "description": "Fondateur et président de NFU (Nouvelles Fonctions Urbaines)",
+    "roles": [
+      {
+        "label": "Fondateur et président de NFU (Nouvelles Fonctions Urbaines)"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0002",
+    "type": "person",
+    "name": "Laurent Halimi",
+    "short_name": "Laurent Halimi",
+    "description": "Président de la foncière Osae Partners",
+    "roles": [
+      {
+        "label": "Président de la foncière Osae Partners"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0003",
+    "type": "person",
+    "name": "Vincent Feltesse",
+    "short_name": "Vincent Feltesse",
+    "description": "Cofondateur de NFU et ancien président de Bordeaux Métropole",
+    "roles": [
+      {
+        "label": "Cofondateur de NFU et ancien président de Bordeaux Métropole"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0004",
+    "type": "person",
+    "name": "Pierre Hurmic",
+    "short_name": "Pierre Hurmic",
+    "description": "Maire écologiste de Bordeaux",
+    "roles": [
+      {
+        "label": "Maire écologiste de Bordeaux"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0005",
+    "type": "person",
+    "name": "Christine Bost",
+    "short_name": "Christine Bost",
+    "description": "Présidente socialiste de Bordeaux Métropole",
+    "roles": [
+      {
+        "label": "Présidente socialiste de Bordeaux Métropole"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0006",
+    "type": "person",
+    "name": "Stéphane Delpeyrat-Vincent",
+    "short_name": "Stéphane Delpeyrat-Vincent",
+    "description": "Vice-président en charge du développement économique",
+    "roles": [
+      {
+        "label": "Vice-président en charge du développement économique"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0007",
+    "type": "person",
+    "name": "Christophe Duprat",
+    "short_name": "Christophe Duprat",
+    "description": "Élu d'opposition Les Républicains (LR) et maire de Saint-Aubin-de-Médoc",
+    "roles": [
+      {
+        "label": "Élu d'opposition Les Républicains (LR) et maire de Saint-Aubin-de-Médoc"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0008",
+    "type": "person",
+    "name": "Thomas Cazenave",
+    "short_name": "Thomas Cazenave",
+    "description": "Maire de Bordeaux et président de Bordeaux Métropole selon la ressource DCmag du 11 septembre 2026",
+    "roles": [
+      {
+        "label": "Maire de Bordeaux et président de Bordeaux Métropole selon la ressource DCmag du 11 septembre 2026"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0009",
+    "type": "person",
+    "name": "Fabien Robert",
+    "short_name": "Fabien Robert",
+    "description": "Conseiller d'opposition MoDem",
+    "roles": [
+      {
+        "label": "Conseiller d'opposition MoDem"
+      }
+    ],
+    "categories": [
+      "elus-opp"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0010",
+    "type": "person",
+    "name": "Philippe Poutou",
+    "short_name": "Philippe Poutou",
+    "description": "Élu d'opposition de gauche anticapitaliste",
+    "roles": [
+      {
+        "label": "Élu d'opposition de gauche anticapitaliste"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0011",
+    "type": "organization",
+    "name": "La France Insoumise (LFI)",
+    "short_name": "La France Insoumise (LFI)",
+    "description": "Noyau d'opposition politique locale",
+    "roles": [
+      {
+        "label": "Noyau d'opposition politique locale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0012",
+    "type": "person",
+    "name": "Julien Anselme",
+    "short_name": "Julien Anselme",
+    "description": "Président du Pôle de compétitivité ENTER (numérique responsable)",
+    "roles": [
+      {
+        "label": "Président du Pôle de compétitivité ENTER (numérique responsable)"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0013",
+    "type": "person",
+    "name": "Fabrice Cousin",
+    "short_name": "Fabrice Cousin",
+    "description": "CEO d'UltraEdge",
+    "roles": [
+      {
+        "label": "CEO d'UltraEdge"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0014",
+    "type": "person",
+    "name": "David Howson",
+    "short_name": "David Howson",
+    "description": "Président de Vantage Data Centers (Europe, Moyen-Orient, Afrique)",
+    "roles": [
+      {
+        "label": "Président de Vantage Data Centers (Europe, Moyen-Orient, Afrique)"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0015",
+    "type": "organization",
+    "name": "NFU Prod",
+    "short_name": "NFU Prod",
+    "description": "Entreprise membre du consortium porteur du projet BXIA",
+    "roles": [
+      {
+        "label": "Entreprise membre du consortium porteur du projet BXIA"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0016",
+    "type": "organization",
+    "name": "Osae Partners",
+    "short_name": "Osae Partners",
+    "description": "Foncière et membre du consortium porteur du projet BXIA",
+    "roles": [
+      {
+        "label": "Foncière et membre du consortium porteur du projet BXIA"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0017",
+    "type": "organization",
+    "name": "Bordeaux Métropole",
+    "short_name": "Bordeaux Métropole",
+    "description": "Collectivité propriétaire des terrains et autorité déterminante pour l’implantation territoriale du projet",
+    "roles": [
+      {
+        "label": "Collectivité propriétaire des terrains et autorité déterminante pour l’implantation territoriale du projet"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0019",
+    "type": "project",
+    "name": "Projet Altarea/Vantage",
+    "short_name": "Projet Altarea/Vantage",
+    "description": "Campus hyperscale IA de 400 MW annoncé près de Bordeaux.",
+    "roles": [
+      {
+        "label": "Campus hyperscale IA de 400 MW annoncé près de Bordeaux."
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0020",
+    "type": "place",
+    "name": "Bordeaux-Lac",
+    "short_name": "Bordeaux-Lac",
+    "description": "Site initial envisagé pour BXIA, sur les parkings du Parc des expositions.",
+    "roles": [
+      {
+        "label": "Site initial envisagé pour BXIA, sur les parkings du Parc des expositions."
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0021",
+    "type": "place",
+    "name": "Parc des expositions de Bordeaux",
+    "short_name": "Parc des expositions de Bordeaux",
+    "description": "Foncier public initialement envisagé pour le projet BXIA.",
+    "roles": [
+      {
+        "label": "Foncier public initialement envisagé pour le projet BXIA."
+      }
+    ],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0022",
+    "type": "organization",
+    "name": "RTE",
+    "short_name": "RTE",
+    "description": "Gestionnaire du réseau de transport, central dans la question des capacités de raccordement.",
+    "roles": [
+      {
+        "label": "Gestionnaire du réseau de transport, central dans la question des capacités de raccordement."
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0023",
+    "type": "issue",
+    "name": "Souveraineté numérique",
+    "short_name": "Souveraineté numérique",
+    "description": "Objectif de réduction de la dépendance aux infrastructures et services étrangers.",
+    "roles": [
+      {
+        "label": "Objectif de réduction de la dépendance aux infrastructures et services étrangers."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0024",
+    "type": "issue",
+    "name": "Consommation électrique",
+    "short_name": "Consommation électrique",
+    "description": "Puissance annoncée de 380 MW pour BXIA et concurrence locale sur les capacités électriques.",
+    "roles": [
+      {
+        "label": "Puissance annoncée de 380 MW pour BXIA et concurrence locale sur les capacités électriques."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0025",
+    "type": "issue",
+    "name": "Îlot de chaleur et refroidissement",
+    "short_name": "Îlot de chaleur et refroidissement",
+    "description": "Enjeux de chaleur, d’eau et de refroidissement du campus.",
+    "roles": [
+      {
+        "label": "Enjeux de chaleur, d’eau et de refroidissement du campus."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0026",
+    "type": "issue",
+    "name": "Transparence démocratique",
+    "short_name": "Transparence démocratique",
+    "description": "Critiques sur la précipitation et les modalités de décision.",
+    "roles": [
+      {
+        "label": "Critiques sur la précipitation et les modalités de décision."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0027",
+    "type": "issue",
+    "name": "Cloud Act",
+    "short_name": "Cloud Act",
+    "description": "Question de l’exposition juridique aux législations extraterritoriales.",
+    "roles": [
+      {
+        "label": "Question de l’exposition juridique aux législations extraterritoriales."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0028",
+    "type": "issue",
+    "name": "Arbitrage foncier et emplois",
+    "short_name": "Arbitrage foncier et emplois",
+    "description": "Débat sur l’usage de 19 hectares de foncier public et le nombre d’emplois directs.",
+    "roles": [
+      {
+        "label": "Débat sur l’usage de 19 hectares de foncier public et le nombre d’emplois directs."
+      }
+    ],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0029",
+    "type": "media",
+    "name": "sudouest.fr",
+    "short_name": "sudouest.fr",
+    "description": "Source de presse régionale.",
+    "roles": [
+      {
+        "label": "Source de presse régionale."
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0030",
+    "type": "media",
+    "name": "latribune.fr",
+    "short_name": "latribune.fr",
+    "description": "Source économique.",
+    "roles": [
+      {
+        "label": "Source économique."
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0031",
+    "type": "media",
+    "name": "next.ink",
+    "short_name": "next.ink",
+    "description": "Source spécialisée numérique.",
+    "roles": [
+      {
+        "label": "Source spécialisée numérique."
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0032",
+    "type": "media",
+    "name": "placeco.fr",
+    "short_name": "placeco.fr",
+    "description": "Source économique régionale.",
+    "roles": [
+      {
+        "label": "Source économique régionale."
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0033",
+    "type": "media",
+    "name": "zdnet.fr",
+    "short_name": "zdnet.fr",
+    "description": "Source spécialisée numérique.",
+    "roles": [
+      {
+        "label": "Source spécialisée numérique."
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "entity_0034",
+    "type": "media",
+    "name": "dcmag.fr",
+    "short_name": "dcmag.fr",
+    "description": "Source spécialisée data centers.",
+    "roles": [
+      {
+        "label": "Source spécialisée data centers."
+      }
+    ],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-10-02"
+  }
+]

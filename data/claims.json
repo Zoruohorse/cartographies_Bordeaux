@@ -1,0 +1,291 @@
+[
+  {
+    "id": "claim_0001",
+    "subject_id": "actor_0001",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Pousse pour la création d'un pôle numérique souverain européen exemplaire afin de briser la dépendance envers les GAFAM.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0002",
+    "subject_id": "actor_0002",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Garant du financement privé à long terme reposant sur des capitaux majoritairement français et européens.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0003",
+    "subject_id": "actor_0003",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Apporte son ancrage territorial pour structurer un consortium capable de bâtir un pôle unique en Europe.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0004",
+    "subject_id": "actor_0004",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Défend un pragmatisme économique et politique en saisissant l'opportunité tout en promettant une vigilance environnementale stricte.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0004"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0005",
+    "subject_id": "actor_0005",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Justifie l'approbation express du dossier par l'impératif industriel de conserver la priorité de raccordement auprès de RTE.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0006",
+    "subject_id": "actor_0006",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Valorise l'enjeu stratégique de calcul intensif pour la recherche et les industries locales de l'aéronautique et de la défense.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0007",
+    "subject_id": "actor_0007",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Reconnaît l'intérêt du projet mais fustige la précipitation de la délibération et le manque d'informations préalables.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0008",
+    "subject_id": "actor_0008",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Refuse l’implantation du méga-data center BXIA sur les parkings du Parc des expositions de Bordeaux-Lac pour des motifs fonciers, urbains et d’emploi, sans s’opposer par principe aux data centers ni à une relocalisation du projet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0008"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0009",
+    "subject_id": "actor_0009",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Pointe la contradiction majeure entre l'idéal écologique affiché par la majorité et la démesure énergétique inhérente au projet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0010",
+    "subject_id": "actor_0010",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "S'oppose sur le fond au modèle économique sous-jacent et ironise sur le positionnement de la droite et de la gauche.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0011",
+    "subject_id": "actor_0011",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Exige un moratoire immédiat face à ce qu'elle qualifie de dérive anti-écologique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0011"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0012",
+    "subject_id": "actor_0012",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Soutient la souveraineté sur le principe mais exige des garanties strictes concernant le Cloud Act, le recyclage et l'exploitation réelle.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0012"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0013",
+    "subject_id": "actor_0013",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Acteur économique focalisé sur le marché pragmatique de la migration locale du on-premise des PME via le rétrofit.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0013"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0014",
+    "subject_id": "actor_0014",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Développe en parallèle un campus hyperscale massif de 400 MW à proximité de Bordeaux pour capter la demande Cloud/IA.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0014"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0015",
+    "subject_id": "actor_0015",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Porte le projet BXIA avec Osae Partners et doit adapter son implantation et son architecture à la suite de l’abandon du site de Bordeaux-Lac.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0016",
+    "subject_id": "actor_0016",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Reste associée au portage du projet, mais le montage foncier initial reposant sur les parkings du Parc des expositions est remis en cause par la décision métropolitaine.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0016"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0017",
+    "subject_id": "actor_0017",
+    "project_id": "project_bxia_bordeaux",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Renonce à la cession des 19 hectares du Parc des expositions, réexamine BXIA et étudierait d’autres implantations plus adaptées aux contraintes foncières, électriques et urbaines.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0017"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  }
+]

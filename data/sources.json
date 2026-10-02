@@ -1,0 +1,50 @@
+[
+  {
+    "id": "source_0001",
+    "title": "sudouest.fr",
+    "publisher": "sudouest.fr",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0002",
+    "title": "latribune.fr",
+    "publisher": "latribune.fr",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0003",
+    "title": "next.ink",
+    "publisher": "next.ink",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0004",
+    "title": "placeco.fr",
+    "publisher": "placeco.fr",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0005",
+    "title": "zdnet.fr",
+    "publisher": "zdnet.fr",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  },
+  {
+    "id": "source_0006",
+    "title": "dcmag.fr",
+    "publisher": "dcmag.fr",
+    "url": null,
+    "source_type": "press",
+    "status": "url_to_add"
+  }
+]

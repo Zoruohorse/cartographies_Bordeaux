@@ -1,0 +1,595 @@
+[
+  {
+    "id": "relation_0001",
+    "source_id": "actor_0001",
+    "target_id": "project_bxia_bordeaux",
+    "type": "leads",
+    "summary": "Porte le projet — relation issue du nuage fourni.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0002",
+    "source_id": "actor_0003",
+    "target_id": "project_bxia_bordeaux",
+    "type": "co_leads",
+    "summary": "Co-dirige — relation issue du nuage fourni.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0003",
+    "source_id": "actor_0004",
+    "target_id": "project_bxia_bordeaux",
+    "type": "supports",
+    "summary": "Soutient (opportunité / souveraineté) — relation issue du nuage fourni.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0004",
+    "source_id": "actor_0005",
+    "target_id": "project_bxia_bordeaux",
+    "type": "supports",
+    "summary": "Soutient (foncier) — relation issue du nuage fourni.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0005",
+    "source_id": "actor_0008",
+    "target_id": "project_bxia_bordeaux",
+    "type": "criticizes_process",
+    "summary": "Critique la méthode — relation issue du nuage fourni.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0006",
+    "source_id": "actor_0009",
+    "target_id": "project_bxia_bordeaux",
+    "type": "related_to",
+    "summary": "Critique l'impact écologique — relation issue du nuage fourni.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0007",
+    "source_id": "actor_0011",
+    "target_id": "project_bxia_bordeaux",
+    "type": "opposes",
+    "summary": "S'oppose (moratoire) — relation issue du nuage fourni.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0008",
+    "source_id": "actor_0012",
+    "target_id": "project_bxia_bordeaux",
+    "type": "requires_safeguards",
+    "summary": "Exige une IA souveraine — relation issue du nuage fourni.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0009",
+    "source_id": "actor_0015",
+    "target_id": "project_bxia_bordeaux",
+    "type": "leads",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0010",
+    "source_id": "actor_0016",
+    "target_id": "project_bxia_bordeaux",
+    "type": "co_leads",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0011",
+    "source_id": "actor_0002",
+    "target_id": "actor_0016",
+    "type": "represents",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0012",
+    "source_id": "actor_0001",
+    "target_id": "actor_0015",
+    "type": "represents",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0013",
+    "source_id": "actor_0013",
+    "target_id": "project_bxia_bordeaux",
+    "type": "market_context",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0014",
+    "source_id": "actor_0014",
+    "target_id": "entity_0019",
+    "type": "leads",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0015",
+    "source_id": "project_bxia_bordeaux",
+    "target_id": "entity_0020",
+    "type": "initial_site",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0016",
+    "source_id": "project_bxia_bordeaux",
+    "target_id": "entity_0021",
+    "type": "initial_site",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0017",
+    "source_id": "actor_0017",
+    "target_id": "entity_0021",
+    "type": "owns",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0018",
+    "source_id": "actor_0017",
+    "target_id": "project_bxia_bordeaux",
+    "type": "reexamines",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0019",
+    "source_id": "project_bxia_bordeaux",
+    "target_id": "entity_0022",
+    "type": "requests_connection",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0020",
+    "source_id": "entity_0019",
+    "target_id": "entity_0022",
+    "type": "requests_connection",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0021",
+    "source_id": "project_bxia_bordeaux",
+    "target_id": "entity_0023",
+    "type": "claims_objective",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0022",
+    "source_id": "project_bxia_bordeaux",
+    "target_id": "entity_0024",
+    "type": "raises_issue",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0023",
+    "source_id": "project_bxia_bordeaux",
+    "target_id": "entity_0025",
+    "type": "raises_issue",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0024",
+    "source_id": "project_bxia_bordeaux",
+    "target_id": "entity_0026",
+    "type": "raises_issue",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0025",
+    "source_id": "actor_0012",
+    "target_id": "entity_0027",
+    "type": "raises_issue",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_extra_0026",
+    "source_id": "actor_0008",
+    "target_id": "entity_0028",
+    "type": "raises_issue",
+    "summary": "Relation structurée à partir de la cartographie en cartes fournie.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0001",
+    "source_id": "actor_0001",
+    "target_id": "project_bxia_bordeaux",
+    "type": "supports",
+    "summary": "Pousse pour la création d'un pôle numérique souverain européen exemplaire afin de briser la dépendance envers les GAFAM.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0002",
+    "source_id": "actor_0002",
+    "target_id": "project_bxia_bordeaux",
+    "type": "supports",
+    "summary": "Garant du financement privé à long terme reposant sur des capitaux majoritairement français et européens.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0003",
+    "source_id": "actor_0003",
+    "target_id": "project_bxia_bordeaux",
+    "type": "supports",
+    "summary": "Apporte son ancrage territorial pour structurer un consortium capable de bâtir un pôle unique en Europe.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0004",
+    "source_id": "actor_0004",
+    "target_id": "project_bxia_bordeaux",
+    "type": "supports",
+    "summary": "Défend un pragmatisme économique et politique en saisissant l'opportunité tout en promettant une vigilance environnementale stricte.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0004"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0005",
+    "source_id": "actor_0005",
+    "target_id": "project_bxia_bordeaux",
+    "type": "supports",
+    "summary": "Justifie l'approbation express du dossier par l'impératif industriel de conserver la priorité de raccordement auprès de RTE.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0006",
+    "source_id": "actor_0006",
+    "target_id": "project_bxia_bordeaux",
+    "type": "supports",
+    "summary": "Valorise l'enjeu stratégique de calcul intensif pour la recherche et les industries locales de l'aéronautique et de la défense.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0007",
+    "source_id": "actor_0007",
+    "target_id": "project_bxia_bordeaux",
+    "type": "opposes",
+    "summary": "Reconnaît l'intérêt du projet mais fustige la précipitation de la délibération et le manque d'informations préalables.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0008",
+    "source_id": "actor_0008",
+    "target_id": "project_bxia_bordeaux",
+    "type": "position_on",
+    "summary": "Refuse l’implantation du méga-data center BXIA sur les parkings du Parc des expositions de Bordeaux-Lac pour des motifs fonciers, urbains et d’emploi, sans s’opposer par principe aux data centers ni à une relocalisation du projet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0008"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0009",
+    "source_id": "actor_0009",
+    "target_id": "project_bxia_bordeaux",
+    "type": "opposes",
+    "summary": "Pointe la contradiction majeure entre l'idéal écologique affiché par la majorité et la démesure énergétique inhérente au projet.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0010",
+    "source_id": "actor_0010",
+    "target_id": "project_bxia_bordeaux",
+    "type": "opposes",
+    "summary": "S'oppose sur le fond au modèle économique sous-jacent et ironise sur le positionnement de la droite et de la gauche.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0011",
+    "source_id": "actor_0011",
+    "target_id": "project_bxia_bordeaux",
+    "type": "opposes",
+    "summary": "Exige un moratoire immédiat face à ce qu'elle qualifie de dérive anti-écologique.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0011"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0012",
+    "source_id": "actor_0012",
+    "target_id": "project_bxia_bordeaux",
+    "type": "position_on",
+    "summary": "Soutient la souveraineté sur le principe mais exige des garanties strictes concernant le Cloud Act, le recyclage et l'exploitation réelle.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0012"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0013",
+    "source_id": "actor_0013",
+    "target_id": "project_bxia_bordeaux",
+    "type": "position_on",
+    "summary": "Acteur économique focalisé sur le marché pragmatique de la migration locale du on-premise des PME via le rétrofit.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0013"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0014",
+    "source_id": "actor_0014",
+    "target_id": "project_bxia_bordeaux",
+    "type": "supports",
+    "summary": "Développe en parallèle un campus hyperscale massif de 400 MW à proximité de Bordeaux pour capter la demande Cloud/IA.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0014"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0015",
+    "source_id": "actor_0015",
+    "target_id": "project_bxia_bordeaux",
+    "type": "supports",
+    "summary": "Porte le projet BXIA avec Osae Partners et doit adapter son implantation et son architecture à la suite de l’abandon du site de Bordeaux-Lac.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0016",
+    "source_id": "actor_0016",
+    "target_id": "project_bxia_bordeaux",
+    "type": "supports",
+    "summary": "Reste associée au portage du projet, mais le montage foncier initial reposant sur les parkings du Parc des expositions est remis en cause par la décision métropolitaine.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0016"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0017",
+    "source_id": "actor_0017",
+    "target_id": "project_bxia_bordeaux",
+    "type": "position_on",
+    "summary": "Renonce à la cession des 19 hectares du Parc des expositions, réexamine BXIA et étudierait d’autres implantations plus adaptées aux contraintes foncières, électriques et urbaines.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0017"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  }
+]
